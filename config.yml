@@ -1,0 +1,11 @@
+main:
+  debug: True
+
+flask:
+  port: 1234
+  debug: False
+
+vector:
+  ip: "vector"
+  serial: "0080096a"
+  timeout: 5
